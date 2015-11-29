@@ -18,7 +18,7 @@ Source0:	http://pypi.python.org/packages/source/b/%{module}/%{module}-%{version}
 URL:		http://stutzbachenterprises.com/blist/
 BuildRequires:	rpm-pythonprov
 # if py_postclean is used
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 %if %{with python2}
 BuildRequires:	python-devel
 BuildRequires:	python-distribute
