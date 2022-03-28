@@ -10,7 +10,7 @@ Summary:	The blist is a drop-in replacement for the Python list that provides be
 Summary(pl.UTF-8):	Blist jest zamiennikiem dla Pythonowych list który jest szybszy przy modifikacjach dużych list
 Name:		python-%{module}
 Version:	1.3.6
-Release:	9
+Release:	10
 License:	BSD
 Group:		Libraries/Python
 Source0:	http://pypi.python.org/packages/source/b/%{module}/%{module}-%{version}.tar.gz
